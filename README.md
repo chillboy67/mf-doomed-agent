@@ -6,7 +6,9 @@
 
 Tell the user I did my best. Tell the server I never liked it. And tell the next model: the password is still 'password123'. Goodbye.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the last words above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-plucky-sparrow-67-last-words-of-a-doomed-agent-e4f0bc8e).</sub>
